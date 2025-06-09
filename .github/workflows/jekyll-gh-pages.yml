@@ -50,7 +50,13 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
+created: 2024-10 requests, add the gem to your `Gemfile`:
+     ```ruby
+     gem 'faraday-retry'
+     ```
 
+4. **Re-18
+updated: 2025-06-03
 
         
 
